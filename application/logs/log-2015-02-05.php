@@ -10,3 +10,6 @@ ERROR - 2015-02-05 14:25:46 --> Language file contains no data: language/sk/user
 ERROR - 2015-02-05 14:25:46 --> Could not find the language key : "home_last_post"
 ERROR - 2015-02-05 14:25:57 --> Language file contains no data: language/sk/user_lang
 ERROR - 2015-02-05 14:25:57 --> Could not find the language key : "home_last_post"
+ERROR - 2015-02-05 19:18:12 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) C:\xampp\htdocs\projekt_1\system\database\drivers\mysqli\mysqli_driver.php 73
+ERROR - 2015-02-05 19:18:12 --> Unable to connect to the database
+ERROR - 2015-02-05 19:18:12 --> Severity: Warning  --> mysqli_select_db() expects parameter 1 to be mysqli, boolean given C:\xampp\htdocs\projekt_1\system\database\drivers\mysqli\mysqli_driver.php 120
